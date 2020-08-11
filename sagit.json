@@ -1,18 +1,24 @@
-  
 {
-  "error": false,
-  "id": "abd853847f6d9710a0d331047d718f8b8fff4f944296596ee1f003b433aa53e3",
-  "filename": "AncientOS-CIVILIZATION-v3.7-sagit-PRIMEVAL-20200515-2001-GApps.zip",
-  "datetime": 1589572806,
-  "version": "v3.7",
-  "size": 1312932772,
-  "url": "https://sourceforge.net/projects/ancientrom/files/Sagit/AncientOS-CIVILIZATION-v3.7-sagit-PRIMEVAL-20200515-2001-GApps.zip/download",
-  "filehash": "81910fc0ffd2047e4860f56f3a5e8c56",
-  "website_url": "https://sourceforge.net/projects/ancientrom/files/",
-  "news_url": "https://t.me/ancientrom",
-  "donate_url": " ",
-  "maintainer": "Danilo",
-  "maintainer_url": "https://github.com/dan3840",
-  "forum_url": "https://t.me/ancientofficialsagit"
-}
+	"response": [
+		{
+			"maintainer": "danilo",
+			"oem": "Xiaomi",
+			"device": "Mi 6",
+			"filename": "crDroidAndroid-10.0-20200811-sagit-v6.9.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/sagit/6.x/crDroidAndroid-10.0-20200811-sagit-v6.9.zip/download",
+			"timestamp": 1597104680,
+			"md5": "48f09d90a2cbe994a07b5f4b989f0606",
+			"size": 771803719,
+			"version": "6.9",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "https://opengapps.org/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
 }
