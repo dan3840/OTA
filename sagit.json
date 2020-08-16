@@ -4,11 +4,11 @@
 			"maintainer": "danilo",
 			"oem": "Xiaomi",
 			"device": "Mi 6",
-			"filename": "crDroidAndroid-10.0-20200815-sagit-v6.9.zip",
-			"download": "https://sourceforge.net/projects/havoc-sagit/files/crDroidAndroid-10.0-20200815-sagit-v6.9.zip/download",
-			"timestamp": 1597449807,
-			"md5": "a57c867f4dc6bbf8c3dfe911543c533b",
-			"size": 773545526,
+			"filename": "crDroidAndroid-10.0-20200816-sagit-v6.9.zip",
+			"download": "https://sourceforge.net/projects/havoc-sagit/files/crDroidAndroid-10.0-20200816-sagit-v6.9.zip/download",
+			"timestamp": 1597589497,
+			"md5": "ac6db1e166ce8e5ca9d3d494d4b464b8",
+			"size": 772133940,
 			"version": "6.9",
 			"buildtype": "Monthly",
 			"forum": "",
@@ -22,3 +22,4 @@
 		}
 	]
 }
+
